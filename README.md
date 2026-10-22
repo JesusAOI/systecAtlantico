@@ -1,3 +1,4 @@
+HEAD
 # SYSTEC Atlántico SAS — sitio de demostración
 
 Proyecto de página corporativa creado con React + Vite.
@@ -37,3 +38,6 @@ Proyecto de página corporativa creado con React + Vite.
 - `src/index.css`: estilos, diseño adaptable y animaciones.
 - `src/main.jsx`: punto de entrada de React.
 - `index.html`: metadatos y documento principal.
+
+# systecAtlantico
+c8e2c9cb4d3e04eb705ea4f30723dad270f1eeed
