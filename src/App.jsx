@@ -69,7 +69,8 @@ function Brand() {
   return (
     <a class="brand" href="#inicio" aria-label="Systec Atlántico, ir al inicio">
       {/* <span class="brand-mark">S</span> */}
-        <img src="img/logo.png" alt="logo" class="logo"></img>
+        {/* <img src="img/logo.png" alt="logo" class="logo"></img> */}
+        <img src={`${import.meta.env.BASE_URL}img/logo.png`} alt="SYSTEC Atlántico"></img>
       <span class="brand-copy">
         <strong>SYSTEC</strong>
         <span>ATLÁNTICO SAS</span>
